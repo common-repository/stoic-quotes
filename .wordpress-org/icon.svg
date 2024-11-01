@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733336"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="C:\Users\User\Downloads\icon-256x256.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="1.877186"
+     inkscape:cx="102.0144"
+     inkscape:cy="156.88376"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#272b30;stroke-width:2.5954;stroke-linecap:round;stroke-linejoin:round"
+       id="rect19778"
+       width="67.73333"
+       height="67.73333"
+       x="0"
+       y="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:29.4634px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:2.00886"
+       x="9.6056681"
+       y="43.164696"
+       id="text1380"><tspan
+         sodipodi:role="line"
+         id="tspan1378"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';fill:#ffffff;fill-opacity:1;stroke-width:2.00886"
+         x="9.6056681"
+         y="43.164696">&quot;...&quot;</tspan></text>
+  </g>
+</svg>
